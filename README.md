@@ -5,7 +5,7 @@ Here we like to have a little fun (mathematical fun that is).
   
 I earned my bachelor's degree in chemical engineering from Cornell University! Go Big Red!
 
-I have extensive internship experience in pharmaceuticals (Merck) and energy (Duracell). I worked in polymer manufacturing at ExxonMobil for approximately two years following my undergraduate graduation. During this venture into chemical engineering fieldwork, I grew more attached to data analysis than the process and literal physical mechanical configurations (heat exchangers, compressors, extrusion panels, etc.). 
+I have extensive internship experience in pharmaceuticals (Merck) and energy (Duracell). I worked in polymer manufacturing at ExxonMobil for approximately two years following my undergraduate graduation. During this venture into chemical engineering fieldwork, I grew more attached to data analysis than the process/physical mechanic configurations of manufacturing (reactors, heat exchangers, compressors, extrusion panels, etc.). 
 
 As a result, for my graduate coursework and desire to pivot into a more data analytical role, I am seeking an advanced degree in applied mathematics from Columbia University.
 
